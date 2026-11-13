@@ -1,15 +1,15 @@
 <h2>Hello there 👋</h2>
 
-**I'm just a developer and maker interested in building things that combine software, hardware and engineering or test me in optimizations**
+**I'm a developer and maker interested in building things that combine software, hardware and engineering - or simply challenge me to optimize something.**
 
-I enjoy experimenting with different technologies, solving practical problems, searching interesting quests and ideas, that I turn into working projects.
+I enjoy experimenting with different technologies, solving practical problems, exploring interesting challenges and turning random ideas into working projects.
 
-Also I really like:
+I also really like:
 -  Exploring Machine Learning & Computer Vision
--  Searching for cool ideas, that will challenge me, and implement them
--  Building projects, especially if they combine hardware and software
+-  Looking for cool ideas that will challenge me and bringing them to life
+-  Building projects, especially those combining hardware and software
 -  3D modeling in CAD (but it's more like a useful hobby) and engineering
--  Sleep well
+-  Sleep well. Don't mess with it!
 
 ---
 
