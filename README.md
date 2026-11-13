@@ -25,4 +25,4 @@ I also really like:
 
 **Hardware & Engineering**
 
-`Arduino` · `Some electronic-stuff` · `Autodesk Fusion` · `KOMPAS-3D` · `3D Printing`
+`Arduino` · `Electronics` · `Autodesk Fusion` · `KOMPAS-3D` · `3D Printing`
