@@ -20,8 +20,6 @@ I enjoy experimenting with different technologies, solving practical problems, e
 
 `Arduino` · `Electronics` · `Autodesk Fusion` · `KOMPAS-3D` · `3D Printing`
 
----
-
 I also really like:
 -  Exploring Machine Learning & Computer Vision
 -  Looking for cool ideas that will challenge me and bringing them to life
