@@ -21,7 +21,7 @@ I also really like:
 
 **Machine Learning & Computer Vision**
 
-`YOLO` · `OpenCV` · `PyTorch` · `NumPy` · `Pandas` · `Scikit-learn` · `and more`
+`YOLO` · `OpenCV` · `PyTorch` · `NumPy` · `Pandas` · `Scikit-learn` · `And more`
 
 **Hardware & Engineering**
 
